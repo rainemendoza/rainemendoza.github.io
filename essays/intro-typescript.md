@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Intro to Typescript"
+title: "My Opinion on Typescript"
 date: 2025-01-23
 published: true
 labels:
