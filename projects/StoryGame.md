@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Screenshot_2025-01-29_193837.png
 title: "First Story Game"
-date: 2023-01-01
+date: 10-28-23
 published: true
 labels:
   - Java
