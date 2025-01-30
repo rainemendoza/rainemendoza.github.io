@@ -12,7 +12,9 @@ labels:
 summary: "A Story game I tried making when first learning how to code."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="img/Screenshot 2025-01-29 193837.png">
+<img class="img-fluid" src="img/Screenshot 2025-01-29 192915.png">
+
 
 
 This story text game was made when I was first learning how to code. My first mentor who taught me how to code and who got me into coding was really into making games and inspired me to try to do the same. Since I was just learning the basics I found it difficult to manage certain things and looking back my formatting isn't the best but it reminds me of why I am at the spot I'm in today and shows me how far I've come.  While the game isn't complete and doesn't have much content I feel it deserves recognition as making it made me very proud when beginning.
