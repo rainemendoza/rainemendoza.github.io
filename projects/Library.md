@@ -1,15 +1,22 @@
 ---
 layout: project
 type: project
-image: 
+image: img/Library.jpg
 title: "Library in Java"
-date: 2024
+date: 10-2-23
 published: true
 labels:
   - Java
-summary: "I created a Library like system in java."
+  - Project
+summary: "A library-like system built in Java to test my fundamentals."
 ---
 
-I created a Library like system in Java. For this project I wanted to create something that would help test my fundamentals in Java as well be something fun for me to create. I created an interface you could interact with which is able to store Strings as 'books' and also allows there to be multiple users which can also checkout books. The interface allows you to checkout as many books as you add and other little neat things. This was the first big project I worked on and pretty much finished in my free time and was very proud when creating it.
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="img/Screenshot_2025-01-29_200131.png" style="width: 60%; height: auto;" alt="Project Screenshot">
+</div>
 
-Feel free to look at source code: https://github.com/rainemendoza/Library-in-java
+I created a library-like system in Java to test my fundamentals while also making something fun. This project features an interactive interface that allows users to store books as strings, manage multiple users, and check out books. Users can check out as many books as they add, along with other neat functionalities.
+
+This was the first major project I completed in my free time, and I was very proud of the result.
+
+Feel free to check out the source code here: [GitHub Repository](https://github.com/rainemendoza/Library-in-java).
