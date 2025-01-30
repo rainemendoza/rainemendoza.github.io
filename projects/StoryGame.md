@@ -1,22 +1,22 @@
 ---
 layout: project
 type: project
-image: 
+image: img/Screenshot_2025-01-29_193837.png
 title: "First Story Game"
-date: 2023
+date: 2023-01-01
 published: true
 labels:
   - Java
   - GitHub
-  - Game
-summary: "A Story game I tried making when first learning how to code."
+  - Game Development
+summary: "A text-based story game created during my early days of learning to code."
 ---
 
-<img class="img-fluid" src="img/Screenshot 2025-01-29 193837.png">
-<img class="img-fluid" src="img/Screenshot 2025-01-29 192915.png">
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="img/Screenshot_2025-01-29_193837.png" style="width: 45%; height: auto;" alt="Screenshot 1">
+  <img src="img/Screenshot_2025-01-29_192915.png" style="width: 45%; height: auto;" alt="Screenshot 2">
+</div>
 
+This text-based story game was one of my first coding projects. Inspired by my mentor, who was passionate about game development, I embarked on this journey to learn programming. Despite its simple format and incomplete content, creating this game marked a significant milestone in my coding journey. It serves as a reminder of my progress and growth since then.
 
-
-This story text game was made when I was first learning how to code. My first mentor who taught me how to code and who got me into coding was really into making games and inspired me to try to do the same. Since I was just learning the basics I found it difficult to manage certain things and looking back my formatting isn't the best but it reminds me of why I am at the spot I'm in today and shows me how far I've come.  While the game isn't complete and doesn't have much content I feel it deserves recognition as making it made me very proud when beginning.
-
-Here is a link to the repository and source code: https://github.com/rainemendoza/story-game
+You can find the complete source code and repository [here](https://github.com/rainemendoza/story-game).
