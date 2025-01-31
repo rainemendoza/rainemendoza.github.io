@@ -12,7 +12,7 @@ summary: "A library-like system built in Java to test my fundamentals."
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="img/ex of library.png" style="width: 60%; height: auto;" alt="Project Screenshot">
+  <img src="../img/ex of library.png" style="width: 60%; height: auto;" alt="Project Screenshot">
 </div>
 
 I created a library-like system in Java to test my fundamentals while also making something fun. This project features an interactive interface that allows users to store books as strings, manage multiple users, and check out books. Users can check out as many books as they add, along with other neat functionalities.
