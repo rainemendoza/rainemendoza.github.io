@@ -7,10 +7,24 @@
     "phone": "760-855-9201",
     "website": "https://rainemendoza.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "Hale Wainani, 2591 Dole St, Honolulu, HI",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/rainemendoza" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/raine-mendoza-91ab0a32b" }
+      {
+        "network": "github",
+        "username": "rainem",
+        "url": "http://github.com/rainemendoza"
+      },
+      {
+        "network": "linkedin",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/raine-mendoza-91ab0a32b"
+      }
     ]
   },
   "interests": [
@@ -22,11 +36,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java" ]
+      "keywords": ["Java"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["Git/GitHub" ]
+      "keywords": ["Git/GitHub"]
     }
   ],
   "education": [
@@ -37,7 +51,7 @@
       "startDate": "2023",
       "endDate": "Present",
       "courses": [
-        "ICS 111", "ICS 211", "ICS 241, ICS, 141"
+        "ICS 111", "ICS 211", "ICS 241", "ICS 141"
       ]
     }
   ],
@@ -48,10 +62,8 @@
       "website": "https://www.hawaii.edu/its/uhgroupings/",
       "startDate": "2024",
       "endDate": "Present",
-      "summary": "I have worked on some of the integration tests for the API side of of the website and am now working on learning and implementing regression tests.",
-      "highlights": [
-        ""
-      ]
+      "summary": "I have worked on some of the integration tests for the API side of the website and am now working on learning and implementing regression tests.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -62,11 +74,10 @@
       "startDate": "2022",
       "endDate": "2023",
       "summary": "Helped out struggling students with math at my previous middle school",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
-  "awards": 
+  "awards": [],
   "references": [
     {
       "name": "Available upon request"
