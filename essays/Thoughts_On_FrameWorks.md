@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Thoughts on UI FrameWorks"
-date: 2025-01-23
+date: 2025-02-27
 published: true
 labels:
   - Bootstrap
