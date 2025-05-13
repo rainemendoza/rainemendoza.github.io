@@ -8,6 +8,9 @@ labels:
   - AI
   - Coding
 ---
+
+<img width="150px" class="rounded float-start pe-4" src="../img/Untitled-design-78.webp">
+
 ## Introduction
 AI has made its way into education much like the many daily tasks that people use it for. Due to the accesibility that it has to information and how fast it is, many people depend on it for simple or complex answers that can be answered faster than a google search due to not having to go through many links and sites to find the specific information a person may be looking for. In education especially students may find themselves using AI to get access to material that may make it easier or more efficient to do assignments faster than before. AI also has prevelance in Software Engineering as it can help detect errors in code as well as when given certain prompts it can even generate projects and pages itself without any previous code. I personally use Chatgpt the most but have used Gemeni, Grok, and Claude here and there as well.
 
