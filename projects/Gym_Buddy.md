@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2025-05-16 165303.png
+<img src="img/Screenshot 2025-05-16 165303.png" alt="Gym Buddy Screenshot" style="width: 50%; height: auto;">
 title: "Gym Buddy"
-date: 4-25
+date: 25-5-4
 published: true
 labels:
   - React
