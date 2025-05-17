@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-<img src="img/Screenshot 2025-05-16 165303.png" alt="Gym Buddy Screenshot" style="width: 50%; height: auto;">
+image: img/Screenshot 2025-05-16 220011.png
 title: "Gym Buddy"
 date: 25-5-4
 published: true
