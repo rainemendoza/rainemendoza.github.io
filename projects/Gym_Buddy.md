@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Screenshot 2025-05-16 165303.png
-title: "Library in Java"
+title: "Gym Buddy"
 date: 4-25
 published: true
 labels:
