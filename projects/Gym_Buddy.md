@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Library.jpg
+image: img/Screenshot 2025-05-16 165303.png
 title: "Library in Java"
 date: 4-25
 published: true
