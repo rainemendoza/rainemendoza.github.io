@@ -28,10 +28,9 @@
     ]
   },
   "interests": [
-    { "name": "Soccer" },
-    { "name": "Gaming" },
-    { "name": "Listening to music" },
-    { "name": "Table Tennis" }
+    { "name": "Java" },
+    { "name": "React" },
+    { "name": "SpringBoot" }
   ],
   "skills": [
     {
